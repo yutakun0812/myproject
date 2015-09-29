@@ -1,3 +1,3 @@
 package gosample
 
-var Message string = "Hello!!"
+var Message string = "Hello, yutaka!!!!!!"
